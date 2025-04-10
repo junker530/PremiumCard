@@ -1,10 +1,3 @@
-//
-//  PremiumCardTests.swift
-//  PremiumCardTests
-//
-//  Created by Shota Sakoda on 2025/04/10.
-//
-
 import Testing
 @testable import PremiumCard
 

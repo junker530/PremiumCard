@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  PremiumCard
-//
-//  Created by Shota Sakoda on 2025/04/10.
-//
-
 import SwiftUI
 struct PremiumCard: Identifiable {
     let id = UUID()
